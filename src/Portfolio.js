@@ -18,7 +18,7 @@ function Portfolio () {
                     <h3>To Do List App</h3>
                     <p>My first React App. Creating using Create-reate-app. Implement LocalStorage to store data without database</p>
                     <p>Frontend: React</p>
-                    <a href='#top' target='_blank' rel="noopener noreferrer" className='button'>See Live</a>
+                    <a href='https://hnhon.github.io/todolistdemo/' target='_blank' rel="noopener noreferrer" className='button'>See Live</a>
                 </div>
                 <div className='single-portfolio'>
                     <h3>Simple Game</h3>
