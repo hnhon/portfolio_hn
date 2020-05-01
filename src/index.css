@@ -116,8 +116,15 @@ ul {
 }
 
 /*/big screen/*/
-@media only screen and (min-device-width: 400px) {
+@media only screen and (min-device-width: 600px) {
     .app {
         width: 50%;
+    }
+}
+
+@media only screen and (max-device-width: 500px) {
+    ul {
+        list-style-type: square;
+        list-style-position: inside;
     }
 }
