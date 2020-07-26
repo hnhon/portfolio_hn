@@ -17,6 +17,16 @@ function Portfolio() {
                 <a href='https://weatherappdemo.herokuapp.com/' target='_blank' rel="noopener noreferrer">See Live</a>
             </div>
             <div className='single-portfolio'>
+                <h3 className='first'>Budget Planner</h3>
+                <p>
+                    Check daily, monthly, yearly bills and plan budget
+                </p>
+                <ul>
+                    <li>Tech: React, React Hooks, Context API (state management), Material UI </li>
+                </ul>
+                <a href='https://condescending-volhard-b5788d.netlify.app/' target='_blank' rel="noopener noreferrer">See Live</a>
+            </div>
+            <div className='single-portfolio'>
                 <h3 className='first'>Quick Blog Posts (work in progress)</h3>
                 <p>
                     Post, Delete, Edit Posts Easily.
