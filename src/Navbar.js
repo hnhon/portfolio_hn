@@ -10,9 +10,6 @@ function Navbar() {
                         <AnchorLink href='#about'>About</AnchorLink>
                         <AnchorLink href='#portfolio'>Portfolio</AnchorLink>
                         <AnchorLink href='#contact'>Contact</AnchorLink>
-                        {/* <a href='#top' onClick={()=>alert('ha')}>About</a>
-                        <a href='#portfolio'>Portfolio</a>
-                        <a href='#contact'>Contact</a> */}
                     </div>
                 </div>
             </nav>
